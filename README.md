@@ -1,2 +1,2 @@
-# myCode
-parallel and distribution systems 1st project code
+# Parallel and distribution systems: 1st project code
+
