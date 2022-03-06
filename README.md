@@ -24,5 +24,3 @@ If we want to run the open cilk function then we comment the `#include <opp.h>` 
 \
 \
 If we want to run any other function then we comment the `#include <cilk/cilk.h>` and the whole openCilk function at the _maskedSparseMatrixMatrixProduct_
-\
-\
