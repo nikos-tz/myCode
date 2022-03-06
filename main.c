@@ -156,14 +156,15 @@ int main(int argc, char *argv[])
 
     // make experiments manually to "benchmark" our functions
 
-    /*
+   
 
     double myTime = 0.0;
 
     struct timeval start,end;
 
     printf("Start of calculation \n\n");
-
+    
+    /*
     int num_of_threads = (int) pow(2,10);
 
     FILE *file_ptr = fopen("/home/csal/pds/pds-codebase/times/dblp-2010/Pthreads/10.txt", "w");
