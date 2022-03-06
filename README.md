@@ -20,6 +20,8 @@ Hadamard product λειτουργεί ως μάσκα και μας δίνει �
 στοιχεία μόνο στις θέσεις που υποδεικνύει ο πίνακας Α.
 \
 \
+## IMPORTANT
+
 If we want to run the open cilk function then we comment the `#include <opp.h>` at _main_ and the whole openMP function at the _maskedSparseMatrixMatrixProduct_
 \
 \
